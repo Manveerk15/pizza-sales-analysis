@@ -1,0 +1,42 @@
+Pizza Sales Project – Insights Summary
+
+This document summarizes the key findings from analyzing pizza sales data using SQL Server for KPIs and Power BI for visualization.
+
+1. Overall Business Performance
+-------------------------------
+- Total Revenue: $817,860.05
+- Total Orders: 21,350
+- Total Pizzas Sold: 49,574
+- Average Order Value: $38.31
+- Average Pizzas per Order: 2
+
+These values indicate healthy business volume, frequent bulk purchases, and strong per-order profitability.
+
+2. Time-Based Sales Trends
+--------------------------
+- 🗓️ Top Order Day: Friday
+- 🕑 Peak Order Time: 12 PM – 2 PM
+- 📅 Highest Order Month: July (Q3)
+
+These patterns suggest strong end-of-week and summer season performance, ideal for staffing and marketing planning.
+
+3. Pizza Size and Category Trends
+---------------------------------
+- Most Popular Size: Large
+- Highest Revenue Category: Chicken
+- Most Sold Category (by quantity): Classical Deluxe
+
+4. Best and Worst Performers
+----------------------------
+- Top Pizza by Revenue: Thai Chicken
+- Top Pizza by Quantity Sold and Orders Received: Classical Deluxe
+- Worst Performing Pizza: Brie Carre (across all KPIs)
+
+5. Key Recommendations
+-----------------------
+- Increase staff on Fridays during lunch hours.
+- Bundle and promote large-sized pizzas.
+- Review and find possible improvements for low-performing SKUs like Brie Carre.
+- Run seasonal marketing in July and Q3 for maximum ROI.
+
+This project was built entirely through self-learning and showcases my ability to interpret data, generate insights, and visualize trends for decision-making.
