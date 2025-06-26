@@ -82,10 +82,8 @@ This table was used as the source for all SQL-based analysis and Power BI dashbo
 ---
 
 ## 📸 Dashboard Preview
-
-![Dashboard Screenshot](./Images/dashboard_screenshot.png)
-
-> *(Make sure you upload a screenshot of your Power BI dashboard to the `Images/` folder and name it `dashboard_screenshot.png`)*
+<img src="PizzaSales/Images/dashboard_screenshot1.png" alt="Dashboard Screenshot" width="600" height="400">
+<img src="PizzaSales/Images/dashboard_screenshot2.png" alt="Dashboard Screenshot 2" width="600" height="400">
 
 ---
 
