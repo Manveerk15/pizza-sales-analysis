@@ -107,7 +107,7 @@ pizza-sales-analysis/
 
 ## 👤 About Me
 
-I'm **Manveer Kaur**, a self-taught aspiring Data Analyst with a strong foundation in Excel, SQL Server, and Power BI. I transitioned into analytics after several years in customer service and supervisory roles and have built this project entirely through self-guided learning.
+I'm **Manveer Kaur**, an aspiring Data Analyst with a strong foundation in Excel, SQL Server, and Power BI. I transitioned into analytics after several years in customer service and supervisory roles and have built this project entirely through self-guided learning.
 
 📫 Email: manveerk15@gmail.com  
 🔗 LinkedIn: [ManveerKaur](https://www.linkedin.com/in/manveer-kaur-1a7399176)
